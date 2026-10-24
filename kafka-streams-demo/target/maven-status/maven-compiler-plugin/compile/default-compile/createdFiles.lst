@@ -1,0 +1,3 @@
+com/eda/streams/errorhandling/AlwaysContinueProductionHandler.class
+com/eda/streams/errorhandling/CustomProductionHandler.class
+com/eda/streams/errorhandling/CustomDeserializationHandler.class

@@ -1,0 +1,8 @@
+com/eda/producer/model/Order.class
+com/eda/producer/service/ProducerService.class
+com/eda/producer/serializer/OrderSummarySerializer.class
+com/eda/producer/KafkaProducerApplication.class
+com/eda/producer/config/KafkaProducerConfig.class
+com/eda/producer/model/Payment.class
+com/eda/producer/service/OrderProducerService.class
+com/eda/producer/controller/OrderController.class
