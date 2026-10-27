@@ -1,4 +1,0 @@
-com/eda/schema/consumer/listener/OrderAvroListener.class
-com/eda/schema/Order.class
-com/eda/schema/Order$Builder.class
-com/eda/schema/consumer/SchemaRegistryConsumerApplication.class
