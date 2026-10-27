@@ -1,5 +1,0 @@
-/Users/shrayanshjain/SpringBootMicroservicePractise/new_sboot_microservice/springboot-microservices/EventDrivenArchitecture/schema-registry-producer/src/main/java/com/eda/schema/producer/SchemaRegistryProducerApplication.java
-/Users/shrayanshjain/SpringBootMicroservicePractise/new_sboot_microservice/springboot-microservices/EventDrivenArchitecture/schema-registry-producer/src/main/java/com/eda/schema/producer/config/KafkaTopicConfig.java
-/Users/shrayanshjain/SpringBootMicroservicePractise/new_sboot_microservice/springboot-microservices/EventDrivenArchitecture/schema-registry-producer/src/main/java/com/eda/schema/producer/controller/OrderController.java
-/Users/shrayanshjain/SpringBootMicroservicePractise/new_sboot_microservice/springboot-microservices/EventDrivenArchitecture/schema-registry-producer/src/main/java/com/eda/schema/producer/service/OrderProducerService.java
-/Users/shrayanshjain/SpringBootMicroservicePractise/new_sboot_microservice/springboot-microservices/EventDrivenArchitecture/schema-registry-producer/target/generated-sources/avro/com/eda/schema/Order.java

@@ -1,6 +1,0 @@
-com/eda/schema/producer/service/OrderProducerService.class
-com/eda/schema/producer/config/KafkaTopicConfig.class
-com/eda/schema/Order.class
-com/eda/schema/Order$Builder.class
-com/eda/schema/producer/controller/OrderController.class
-com/eda/schema/producer/SchemaRegistryProducerApplication.class
